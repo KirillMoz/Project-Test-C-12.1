@@ -1,0 +1,7 @@
+C:\Users\Мозжегоров Кирилл\source\repos\Test12.1.5\Test12.1.5\bin\Debug\Test12.1.5.exe.config
+C:\Users\Мозжегоров Кирилл\source\repos\Test12.1.5\Test12.1.5\bin\Debug\Test12.1.5.exe
+C:\Users\Мозжегоров Кирилл\source\repos\Test12.1.5\Test12.1.5\bin\Debug\Test12.1.5.pdb
+C:\Users\Мозжегоров Кирилл\source\repos\Test12.1.5\Test12.1.5\obj\Debug\Test12.1.5.csproj.AssemblyReference.cache
+C:\Users\Мозжегоров Кирилл\source\repos\Test12.1.5\Test12.1.5\obj\Debug\Test12.1.5.csproj.CoreCompileInputs.cache
+C:\Users\Мозжегоров Кирилл\source\repos\Test12.1.5\Test12.1.5\obj\Debug\Test12.1.5.exe
+C:\Users\Мозжегоров Кирилл\source\repos\Test12.1.5\Test12.1.5\obj\Debug\Test12.1.5.pdb
